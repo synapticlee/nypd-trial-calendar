@@ -3,7 +3,7 @@ https://nypdonline.org/link/trial-calendar
 
 Disciplinary cases for police misconduct trials 
 
-[[shot.png]]
+![screenshot][shot.png])
 
 This github repository uses the shot-scraper template, details below
 
