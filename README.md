@@ -3,6 +3,8 @@ https://nypdonline.org/link/trial-calendar
 
 Disciplinary cases for police misconduct trials 
 
+[[shot.png]]
+
 This github repository uses the shot-scraper template, details below
 
 Quickly create a new GitHub repository that takes automated screenshots of a web page using [shot-scraper](https://github.com/simonw/shot-scraper).
